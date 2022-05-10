@@ -1,6 +1,6 @@
 from datetime import datetime
-# https://docs.python.org/3/library/datetime.html
-#change
+
+
 class furniture:
     #def __init__(self, type, amount, weight, color, width, height, length, time):
     def __init__(self, type, amount, weight, color, dimensions, time = datetime.now()):
